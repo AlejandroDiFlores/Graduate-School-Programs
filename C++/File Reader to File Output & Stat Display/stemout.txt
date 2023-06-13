@@ -1,0 +1,77 @@
+PETROLEUM-ENGINEERING: 2339 students
+     Percentage of men  : 87.94%
+     Percentage of women: 12.06%
+MINING-AND-MINERAL-ENGINEERING: 756 students
+     Percentage of men  : 89.81%
+     Percentage of women: 10.19%
+METALLURGICAL-ENGINEERING: 856 students
+     Percentage of men  : 84.70%
+     Percentage of women: 15.30%
+NAVAL-ARCHITECTURE-AND-MARINE-ENGINEERING: 1258 students
+     Percentage of men  : 89.27%
+     Percentage of women: 10.73%
+NUCLEAR-ENGINEERING: 2573 students
+     Percentage of men  : 85.50%
+     Percentage of women: 14.50%
+CHEMICAL-ENGINEERING: 32260 students
+     Percentage of men  : 65.84%
+     Percentage of women: 34.16%
+ASTRONOMY-AND-ASTROPHYSICS: 1792 students
+     Percentage of men  : 46.43%
+     Percentage of women: 53.57%
+MECHANICAL-ENGINEERING: 91227 students
+     Percentage of men  : 88.04%
+     Percentage of women: 11.96%
+AEROSPACE-ENGINEERING: 15058 students
+     Percentage of men  : 86.02%
+     Percentage of women: 13.98%
+ELECTRICAL-ENGINEERING: 81527 students
+     Percentage of men  : 80.35%
+     Percentage of women: 19.65%
+GEOLOGICAL-AND-GEOPHYSICAL-ENGINEERING: 720 students
+     Percentage of men  : 67.78%
+     Percentage of women: 32.22%
+ENVIRONMENTAL-ENGINEERING: 4047 students
+     Percentage of men  : 65.78%
+     Percentage of women: 34.22%
+COMPUTER-ENGINEERING: 41542 students
+     Percentage of men  : 80.06%
+     Percentage of women: 19.94%
+MATERIALS-SCIENCE: 4279 students
+     Percentage of men  : 68.92%
+     Percentage of women: 31.08%
+BIOMEDICAL-ENGINEERING: 14955 students
+     Percentage of men  : 56.22%
+     Percentage of women: 43.78%
+ENGINEERING-MECHANICS-PHYSICS-AND-SCIENCE: 4321 students
+     Percentage of men  : 81.60%
+     Percentage of women: 18.40%
+BIOLOGICAL-ENGINEERING: 8925 students
+     Percentage of men  : 67.92%
+     Percentage of women: 32.08%
+INDUSTRIAL-AND-MANUFACTURING-ENGINEERING: 18968 students
+     Percentage of men  : 65.65%
+     Percentage of women: 34.35%
+GENERAL-ENGINEERING: 61152 students
+     Percentage of men  : 74.70%
+     Percentage of women: 25.30%
+ARCHITECTURAL-ENGINEERING: 2825 students
+     Percentage of men  : 64.96%
+     Percentage of women: 35.04%
+ECOLOGY: 9154 students
+     Percentage of men  : 42.36%
+     Percentage of women: 57.64%
+TREATMENT-THERAPY-PROFESSIONS: 48491 students
+     Percentage of men  : 27.81%
+     Percentage of women: 72.19%
+GENERAL-MEDICAL-AND-HEALTH-SERVICES: 33599 students
+     Percentage of men  : 22.54%
+     Percentage of women: 77.46%
+ZOOLOGY: 8409 students
+     Percentage of men  : 36.27%
+     Percentage of women: 63.73%
+_________________________________________________________
+Major Category % of Men % of Women
+Engineering 77.9197% 22.0803%
+Biology-And-LifeScience 39.4466% 60.5534% 
+Health 25.656% 74.344%

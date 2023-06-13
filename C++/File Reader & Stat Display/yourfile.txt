@@ -1,0 +1,388 @@
+Move                        SP Cost     Power
+Wolkenapalm I;3;65
+Wolkenapalm II;6;85
+Wolkenapalm III;9;105
+Burst Flame I;3;55
+Burst Flame II;6;75
+Burst Flame III;9;95
+Meteor Fall I;4;30
+Meteor Fall II;7;45
+Meteor Fall III;10;75
+Panic Wisp;10;30
+Ice Archery I;3;65
+Ice Archery II;6;85
+Ice Archery III;9;105
+Hydro Water I;3;55
+Hydro Water II;6;75
+Hydro Water III;9;95
+Ocean Wave I;4;20
+Ocean Wave II;7;35
+Ocean Wave III;10;65
+Idle Bubble;10;30
+Crescent Leaf I;3;65
+Crescent Leaf II;6;85
+Crescent Leaf III;9;105
+Gaia Element I;3;55
+Gaia Element II;6;75
+Gaia Element III;9;95
+Rune Forest I;4;20
+Rune Forest II;7;35
+Rune Forest III;10;65
+Venom Trap;10;40
+Nanomachine Break I;3;65
+Nanomachine Break II;6;85
+Nanomachine Break III;9;105
+Heaven's Thunder I;3;55
+Heaven's Thunder II;6;75
+Heaven's Thunder III;9;95
+Thunder Fall I;4;30
+Thunder Fall II;7;45
+Thunder Fall III;10;75
+Ripping Net;10;40
+Comet Hammer I;3;65
+Comet Hammer II;6;85
+Comet Hammer III;9;105
+Grand Rock I;3;55
+Grand Rock II;6;75
+Grand Rock III;9;95
+Awesome Quake I;4;30
+Awesome Quake II;7;45
+Awesome Quake III;10;75
+Shock;10;40
+Wind Claw I;3;65
+Wind Claw II;6;85
+Wind Claw III;9;105
+Sonic Void I;3;55
+Sonic Void II;6;75
+Sonic Void III;9;95
+Gale Storm I;4;30
+Gale Storm II;7;45
+Gale Storm III;10;75
+Texture Blow;10;40
+Saint Knuckle I;3;65
+Saint Knuckle II;6;85
+Saint Knuckle III;9;105
+Holy Light I;3;55
+Holy Light II;6;75
+Holy Light III;9;95
+Shining Laser I;4;20
+Shining Laser II;7;35
+Shining Laser III;10;65
+Support End;10;30
+Destruction Cannon I;3;65
+Destruction Cannon II;6;85
+Destruction Cannon III;9;105
+Nightmare I;3;55
+Nightmare II;6;75
+Nightmare III;9;95
+Hell Crusher I;4;20
+Hell Crusher II;7;35
+Hell Crusher III;10;65
+Destruction;10;40
+Heavy Strike I;3;70
+Heavy Strike II;6;90
+Heavy Strike III;9;110
+Power Energy I;3;60
+Power Energy II;6;80
+Power Energy III;9;100
+Mach Rush I;4;35
+Mach Rush II;7;50
+Mach Rush III;10;80
+Physical Drain;3;50
+Spirit Drain;3;40
+Character Reversal;10;30
+Heal;4;0
+X-Heal;8;0
+Final Heal;16;0
+Aura;10;0
+X-Aura;25;0
+Final Aura;40;0
+Revive;30;0
+Perfect Revival;60;0
+Anti-Poison;4;0
+Anti-Panic;4;0
+Anti-Paralysis;4;0
+Anti-Sleep;4;0
+Anti-Stun;4;0
+Anti-Dot;4;0
+Anti-Bug;4;0
+Restore;8;0
+Dispel;8;0
+Attack Charge;6;0
+Attack Charge Field;20;0
+Guard Charge;6;0
+Guard Charge Field;20;0
+Mental Charge;6;0
+Mental Charge Field;20;0
+Speed Charge;6;0
+Speed Charge Field;20;0
+Hit Charge;6;0
+Agility Charge;6;0
+Critical Charge;6;0
+Attack Break;6;0
+Attack Break Field;20;0
+Guard Break;6;0
+Guard Break Field;20;0
+Mental Break;6;0
+Mental Break Field;20;0
+Speed Break;6;0
+Speed Break Field;20;0
+Acceleration Boost;6;0
+Cross-Counter;6;0
+Mirror Reflection;6;0
+Status Barrier;16;0
+Safety Guard;32;0
+Chain Plus;4;0
+Chain Max;8;0
+Chain Minus;4;0
+Chain Loss;8;0
+Escape Dash;0;0
+Bubbles;2;30
+Pepper Breath;5;70
+Spitfire Blast;5;35
+Diamond Shell;5;60
+Summon;5;0
+Thunder Cloud;5;30
+Lullaby Bubble;5;55
+Double Backhand;5;20
+Electric Stun Blast;5;65
+Blue Blaster;5;65
+Little Horn;5;70
+Rock Breaker;5;70
+Blinding Ray;5;65
+Crazy Giggle;5;75
+Rock Fist;5;65
+Goblin Strike;5;65
+Marching Fishes;5;15
+Black Pearl Blast;5;25
+Shiny Ring;5;70
+Terrier Tornado;5;20
+Super Shocker;5;60
+Plastic Blaze;5;60
+Metal Cannon;5;70
+Cog Crusher;5;70
+Air Shot;5;50
+Fifth Rush;5;20
+Poison Ivy;5;65
+Demi Darts;5;20
+Spiral Twister;5;55
+Ninja Blade;5;35
+Veemon Headbutt;5;75
+Puppy Howl;10;0
+Electric Shock;5;55
+Feather Slash;10;0
+Seed Blast;5;15
+Grand Cross;30;0
+Diamond Storm;5;25
+Blazing Ice;5;60
+Sticky Net;5;65
+Frozen Claw;20;0
+Glide Horn;10;85
+Tail Hammer;10;85
+Harpoon Torpedo;10;90
+Thunder Cloud II;10;75
+Branch Drain;10;75
+Vee Laser;10;95
+Heaven's Knuckle;10;80
+Pummel Whack;10;90
+D-Grenade;10;40
+Spiral Blow;10;90
+Electro Shocker;10;80
+Mature Poop;10;75
+Dumdum Uppercut;10;90
+Fox Fire;10;85
+Freeze Fang;10;85
+Will-o'-Wisp;10;30
+Exhaust Flame;10;85
+Data Crusher;10;90
+Mega Flame;10;95
+Bit Fire;10;30
+Chrono Breaker;10;0
+Scissor Claw;20;0
+Symphony Crusher;20;0
+Hyper Smell;10;70
+Golden Rush;10;10
+Hyper Heat;10;85
+Sunshine Beam;10;80
+Ice Blast;10;75
+Mega Burst;10;45
+Poop;10;75
+Meteor Shower;10;40
+Spiking Strike;20;0
+Crystal Cloud;10;30
+Hyper Cannon;10;200
+Fire Breath;10;90
+Lightning Paw;10;0
+Death Claw;10;0
+Needle Spray;10;40
+Power Metal;10;90
+Poop Dunk;10;80
+Poop Toss;10;75
+Meteor Wing;10;25
+Death Charm;10;0
+V-Nova Blast;10;105
+Rare Metal Poop;10;80
+Super Stinky Jet;10;20
+Kunai Wing;10;30
+Burning Fist;10;80
+Sub-zero Ice Punch;10;80
+Fist of the Beast King;10;95
+Razor Wind;10;30
+Turbo Stinger;10;25
+Horn Buster;30;0
+Bunny Blades;15;55
+Spiral Sword;15;110
+Galactic Flare;15;55
+Spider Shooter;15;30
+Night Raid;15;65
+Dragon Impulse;15;115
+Love Serenade;30;0
+Celestial Arrow;15;100
+Double Scissor Claw;30;0
+Shadow Wing;15;65
+Genocidal Gears;15;60
+Nitro Stinger;30;0
+The King of Fists;15;55
+Desolation Claw;15;115
+Disaster Blaster;15;65
+Cherry Bomb;15;65
+Top Gun;15;110
+Superstar Uppercut;15;110
+Oblivion Bird;15;110
+Vulcan's Hammer;15;115
+Talisman of Light;15;105
+Wind Cutter Sword;15;40
+Nightmare Syndrome;15;0
+Heavy Metal Fire;15;110
+Musical Fist;30;0
+Metal Meteor;15;115
+Berserk Sword;15;0
+Digital Bomb;15;80
+Death Parade Blaster;15;40
+Fist of Ice;15;110
+Trick or Treat;15;100
+Pit Bomb;15;105
+Dark Pupil;15;110
+Cold Flame;15;100
+Unidentified Flying Kiss;15;95
+Tidal Wave;15;65
+Heaven's Gate;15;100
+Winning Knuckle;15;115
+Smile Bomber;15;110
+Lightning Javelin;15;105
+Genocide Attack;15;110
+Atomic Blaster;15;250
+Giga Destroyer;15;115
+Revenge Flame;15;0
+Nuclear Laser;30;0
+Energy Bomb;15;100
+Hearts Attack;30;0
+Savage Emperor;15;105
+Trident Revolver;15;40
+Lila Shower;15;60
+Golden Triangle I;15;90
+Flower Cannon;15;105
+Dead or Alive;25;110
+Darkness Wave;15;35
+Wolf Claw;15;120
+Full Moon Kick;15;110
+Pandora Dialogue;15;0
+Blade of the Dragon King;25;30
+The Ray of Victory;25;100
+Brain Rupture;20;115
+Megadeath;20;95
+Positron Laser;20;150
+Arctic Blizzard;20;125
+Venom Infusion;20;135
+Terra Force;20;90
+Pendragon's Glory;25;135
+Eden's Javelin;20;120
+Will-O'-Wisp Slash;20;65
+Demonic Disaster;25;140
+Quake!Blast!Fire!Father!;25;35
+Taizoukai Mandala;20;70
+Dimension Scissor;40;0
+Destruction Crush;20;80
+Waltz's End;25;30
+Heaven's Judgment;20;90
+Howling Crusher;20;65
+Amethyst Mandala;20;70
+Judgement of the Blade;25;30
+GeoGrey Sword;20;130
+Justice Kick;20;130
+Bifrost;25;120
+Strike of the Seven Stars;20;15
+Burst Shot;20;50
+Mach Stinger V;20;20
+Soul Core Attack;40;0
+Good Night Moon;20;125
+Catastrophe Cannon;20;80
+Flame Inferno;25;90
+Lightning Joust;25;140
+Wyvern's Breath;25;110
+Extinction Wave;25;80
+Vulcan Crusher;30;145
+Atomic Ray;20;125
+Pandemonium Lost;25;80
+Flashy Boss Punch;20;130
+Trump Sword;20;35
+Puppet Pummel;20;125
+Platinum Junk;20;30
+Dark Terra Force;20;100
+Smile Warhead;20;130
+Sorrow Blue;40;0
+Giga Blaster;20;120
+Double Impact;25;20
+Eternal Nightmare;50;0
+Starlight Explosion;20;80
+Fire Tornado;20;80
+Tomahawk Stinger;20;130
+Chaos Degradation;25;0
+Ocean Love;20;0
+Strike Roll;20;140
+Full Moon Blaster;20;135
+Infinity Cannon;20;115
+Banana Slip;20;115
+Ice Wolf Claw;20;45
+River of Power;20;120
+Terrors Cluster;20;125
+Biting Crush;25;145
+Phantom Pain;50;0
+Celestial Blade;20;80
+Spiral Masquerade;25;30
+Thorn Whip;20;120
+Seven's Fantasia;20;75
+Lightning Spear;40;0
+Corona Destroyer;50;0
+Dark Roar;15;130
+Fenrir Sword;15;130
+Final Shining Burst;20;200
+Full Moon Meteor Impact;20;120
+Mourning Dance;20;20
+Aguichant L\E8vres;30;0
+Omni Sword;30;150
+Transcendent Sword;30;115
+Gift of Darkness;60;0
+Divine Atonement;30;105
+Bantyo Blade;20;150
+Flaming Fist;10;50
+S-Gold Solar Storm;25;75
+Golden Triangle;20;110
+Soul Digitalization;25;95
+Victory Sword;25;65
+Great Tornado;40;0
+Dragonic Impact;50;100
+Judecca Prison;25;115
+Table Flip;25;100
+Breath of the Gods;25;0
+Weltgeist;25;0
+Odin's Breath;25;105
+Shield of the Just;25;115
+Dragon's Roar;25;55
+Black Aura Blast;25;110
+Black Tornado;40;0
+Garuru Tomahawk;20;140
+Fist of Athena;50;0
+Supreme Cannon;30;130
+Dark Prominence;30;0
+Plasma Shoot;25;35
