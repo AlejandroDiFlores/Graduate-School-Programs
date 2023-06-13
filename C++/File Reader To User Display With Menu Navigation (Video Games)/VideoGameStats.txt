@@ -1,0 +1,24 @@
+#;Title;Platform;Year;Global_Sales;Critic Rate;User Rate
+1;Wii Sports;Wii;2006;82.74;76;0; 
+2;Super Mario Bros.;NES;1985;40.24;84;0;   
+3;Mario Kart Wii;Wii;2008;35.82;82;0;   
+4;Wii Sports Resort;Wii;2009;33.01;80;0;  
+5;Pokemon Red/Pokemon Blue;GB;1996;31.37;100;0;  
+6;Tetris;GB;1989;30.26;90;0; 
+7;New Super Mario Bros.;DS;2006;30.01;89;0; 
+8;Wii Play;Wii;2006;29.02;58;0; 
+9;New Super Mario Bros. Wii;Wii;2009;28.62;87;0; 
+10;Duck Hunt;NES;1984;28.31;71;0; 
+11;Nintendogs;DS;2005;24.76;91;0; 
+12;Mario Kart DS;DS;2005;23.42;91;0;   
+13;Pokemon Gold/Pokemon Silver;GB;1999;23.10;100;0;   
+14;Wii Fit;Wii; 2007;22.72;80;0;   
+15;Wii Fit Plus;Wii;2009;22.01;80;0;   
+16;Kinect Adventures!;X360;2010;21.82;61;0;  
+17;Grand Theft Auto V;PS3;2013;21.40;97;0;   
+18;Grand Theft Auto: San Andreas;PS2;2004;20.81;95;0;   
+19;Super Mario World;SNES;1990;20.61;85;0;   
+20;Brain Age: Train Your Brain in Minutes a Day;DS;2005;20.22;77;0;  
+21;Pokemon Diamond/Pokemon Pearl;DS;2006;18.36;73;0;   
+22;Super Mario Land;GB;1989;18.14;75;0;  
+23;Super Mario Bros. 3;NES;1988;17.28;87;0;  

@@ -1,0 +1,13 @@
+ #          Title          Platform  Year  Sales (mil)  Critic Rate   User Rate      
+___  ____________________  ________  ____  ___________  ___________   _________
+
+1    BioShock Infinite        PC     2013     7.4           93            95          
+2    Horizon Zero Dawn        PC     2020     2.9           87            95          
+3    Rise Of The Tomb Rai     PC     2016     4.4           94            99          
+4    Assassin's Creed Bro     PC     2011     1             89            92          
+5    Halo: The Master Chi     PC     2019     6.2           92            95          
+6    Mirror's Edge            PC     2009     1.8           87            97          
+7    Mega Man Battle Netw     PC     2023     0.01          93            95          
+8    Pokemon Emerald          GBA    2004     7.06          76            98          
+9    Crisis Core Final Fa     PC     2022     0.12          90            100         
+10   Indivisible              PC     2019     0.11          78            93          
